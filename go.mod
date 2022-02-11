@@ -32,7 +32,7 @@ require (
 	github.com/buildpacks/pack v0.12.0
 	github.com/cenkalti/backoff/v4 v4.0.2
 	github.com/docker/cli v0.0.0-20200312141509-ef2f64abbd37
-	github.com/docker/distribution v2.7.1+incompatible
+	github.com/docker/distribution v2.8.0+incompatible
 	github.com/docker/docker v1.14.0-0.20190319215453-e7b5f7dbe98c
 	github.com/docker/go-connections v0.4.0
 	github.com/ghodss/yaml v1.0.0
